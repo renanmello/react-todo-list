@@ -1,4 +1,4 @@
-React To-Do List with Vite
+<b>React To-Do List with Vite<b>
 
 Welcome to the React To-Do List project! This project is a simple to-do list application built with React and Vite. Users can add, delete, and download their tasks as a PDF.
 Features
@@ -32,9 +32,9 @@ Running the Application
 
 Start the development server:
 
-npm run dev
-# or
-yarn dev
+    npm run dev
+    # or
+    yarn dev
 
 The application will be available at http://localhost:3000.
 
