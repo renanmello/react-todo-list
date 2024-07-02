@@ -19,14 +19,10 @@ Installation
 
     Clone the repository:
 
-    bash
-
-git clone https://github.com/yourusername/react-todo-list.git
-cd react-todo-list
+     git clone https://github.com/yourusername/react-todo-list.git
+     cd react-todo-list
 
 Install the dependencies:
-
-bash
 
     npm install
     # or
@@ -35,8 +31,6 @@ bash
 Running the Application
 
 Start the development server:
-
-bash
 
 npm run dev
 # or
