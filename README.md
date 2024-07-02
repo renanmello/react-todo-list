@@ -17,10 +17,10 @@ Make sure you have the following installed on your system:
 
 Installation
 
-    Clone the repository:
+Clone the repository:
 
-git clone https://github.com/yourusername/react-todo-list.git
-cd react-todo-list
+    git clone https://github.com/yourusername/react-todo-list.git
+    cd react-todo-list
 
 Install the dependencies:
 
